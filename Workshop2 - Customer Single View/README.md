@@ -1,0 +1,1 @@
+# :white_check_mark: Workshop2 - Customer Single View
