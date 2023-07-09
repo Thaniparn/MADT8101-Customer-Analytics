@@ -3,7 +3,8 @@
 Retail information contains sales transaction and repondings information per customer.
 
 Notebook: [RetailChurnPrediction](https://github.com/Thaniparn/MADT8101-Customer-Analytics/blob/09d328ce7e02cca713beef357b98811d0ee5ee8f/Workshop4%20-%20Churn%20Prediction/RetailChurnPrediction.ipynb)
-Google Colab: Open In Collab
+
+Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Thaniparn/MADT8101-Customer-Analytics/blob/main/Workshop4%20-%20Churn%20Prediction/RetailChurnPrediction.ipynb)
 
 ### Example of result:
 Sales transaction
