@@ -2,7 +2,7 @@
 ## Dataset
 Retail information contains sales transaction and repondings information per customer.
 
-Notebook: [RetailChurnPrediction]()
+Notebook: [RetailChurnPrediction](https://github.com/Thaniparn/MADT8101-Customer-Analytics/blob/09d328ce7e02cca713beef357b98811d0ee5ee8f/Workshop4%20-%20Churn%20Prediction/RetailChurnPrediction.ipynb)
 Google Colab: Open In Collab
 
 ### Example of result:
