@@ -1,4 +1,4 @@
-# :white_check_mark: Workshop4 - Churn Prediction
+# :white_check_mark: Workshop3 - Churn Prediction
 ## Dataset
 Retail information contains sales transaction and repondings information per customer.
 
