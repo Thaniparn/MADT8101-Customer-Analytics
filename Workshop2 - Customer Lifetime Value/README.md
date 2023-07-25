@@ -1,4 +1,4 @@
-# :white_check_mark: Workshop3 - Customer Lifetime Value
+# :white_check_mark: Workshop2 - Customer Lifetime Value
 ![image](https://github.com/Thaniparn/MADT8101-Customer-Analytics/assets/137845227/26d298d1-11aa-4ded-b6a4-ca27f4095bdb)
 ![image](https://github.com/Thaniparn/MADT8101-Customer-Analytics/assets/137845227/f69b8ddc-dad5-4536-a35c-355262356c11)
 ![image](https://github.com/Thaniparn/MADT8101-Customer-Analytics/assets/137845227/66e1e6ae-2e38-4d73-8dc0-18b30a6a9603)
