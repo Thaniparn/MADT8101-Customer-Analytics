@@ -51,4 +51,4 @@ Here is my result
 ![image](https://github.com/Thaniparn/MADT8101-Customer-Analytics/assets/137845227/f67714a7-582b-44d2-8602-91da521f597e)
 
 ## Word cloud
-![image](https://github.com/Thaniparn/MADT8101-Customer-Analytics/assets/137845227/3abaca5a-b443-44ce-bae5-02ed4c400b71)
+![image](https://github.com/Thaniparn/MADT8101-Customer-Analytics/assets/137845227/3fe47f58-8188-41fc-9cde-4fc5e3c7d620)
